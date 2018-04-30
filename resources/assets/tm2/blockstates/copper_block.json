@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "tm2:copper_block" }
+    }
+}
